@@ -1,0 +1,54 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.navbar{
+    border-bottom: 1px solid #005A5E;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color:aqua;  
+}
+
+.btn-light{
+    width: 155px;
+    height: 40px;
+    border: 2px solid aqua;
+    outline: none;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+}
+
+.btn-light:hover{
+    background-color: aqua;
+}
+
+.img-fluid{
+    border-radius: 20px;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.card{
+    /* border-radius: 10px; */
+    border: white solid 1.5px;
+    outline: none;
+}
+
+.card-body{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+footer{
+    /* background-color: black; */
+    color: white;
+}
+
