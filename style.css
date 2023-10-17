@@ -38,7 +38,6 @@ section{
 }
 
 .card{
-    /* border-radius: 10px; */
     border: white solid 1.5px;
     outline: none;
 }
@@ -47,8 +46,8 @@ section{
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
 footer{
-    /* background-color: black; */
     color: white;
 }
 
